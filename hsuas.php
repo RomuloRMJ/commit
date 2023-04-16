@@ -42,3 +42,7 @@ if(isset($_POST['login'])){
   </form>
 </body>
 </html>
+
+<!--
+    adicionando comentário apenas para testar uma funcionalidade no github
+  -->
