@@ -1,0 +1,18 @@
+/* Define a cor de fundo para a página */
+body {
+    background-color: #f2f2f2;
+  }
+  
+  /* Define o estilo de fonte para o texto */
+  p {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.5;
+    color: #333;
+  }
+  
+  /* Define a cor do link quando hover */
+  a:hover {
+    color: #ff6600;
+  }
