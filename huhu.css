@@ -1,0 +1,109 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    color: #333;
+    line-height: 1.5;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  /* Estilos para o cabeçalho */
+  .header {
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+  }
+  
+  .header-logo {
+    display: inline-block;
+    font-size: 24px;
+    font-weight: bold;
+    margin: 20px;
+  }
+  
+  .header-nav {
+    display: inline-block;
+    float: right;
+    margin: 30px 20px 20px;
+  }
+  
+  .header-nav a {
+    color: #666;
+    text-decoration: none;
+    margin-right: 20px;
+    transition: color 0.2s;
+  }
+  
+  .header-nav a:hover {
+    color: #333;
+  }
+  
+  /* Estilos para o conteúdo principal */
+  .main {
+    padding: 100px 0;
+  }
+  
+  .section {
+    margin-bottom: 40px;
+  }
+  
+  .section-title {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .section-text {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
+  .section-image {
+    max-width: 100%;
+    margin-top: 20px;
+  }
+  
+  /* Estilos para a coluna da esquerda */
+  .left-column {
+    width: 60%;
+    float: left;
+  }
+  
+  /* Estilos para a coluna da direita */
+  .right-column {
+    width: 40%;
+    float: right;
+  }
+  
+  /* Estilos para o rodapé */
+  .footer {
+    background-color: #333;
+    color: #fff;
+    padding: 40px 0;
+    text-align: center;
+  }
+  
+  .footer-text {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .footer-link {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+  
+  .footer-link:hover {
+    color: #ccc;
+  }
+  
