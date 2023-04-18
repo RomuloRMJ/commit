@@ -24,3 +24,5 @@ fetch('https://api.example.com/data')
     errorCell.colSpan = 3;
     errorCell.innerHTML = 'Ocorreu um erro ao carregar os dados.';
   });
+
+  //asdsds//

@@ -44,5 +44,5 @@ if(isset($_POST['login'])){
 </html>
 
 <!--
-    adicionando comentário apenas para testar uma funcionalidade no github
+   * adicionando comentário apenas para testar uma funcionalidade no github
   -->
